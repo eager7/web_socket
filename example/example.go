@@ -6,7 +6,7 @@ import (
 	"github.com/eager7/web_socket"
 )
 
-const url = "ws://47.244.14.81:8586"
+const url = "ws://127.0.0.1:8586"
 
 func main() {
 	fmt.Println("web socket example...")
